@@ -1,4 +1,3 @@
-from logging import root
 from tkinter import *
 
 w0, h0 = 1920, 1080
